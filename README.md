@@ -1,6 +1,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-Hi, I'm Nishanth — a passionate Flutter developer with real-world experience building modern, scalable mobile applications.<br><br>🚀 Flutter Developer with hands-on experience in building mobile & web apps<br><br>📱 Skilled in responsive UI, REST APIs & Firebase integration<br><br>🛠️ Tools I use: Flutter, Dart, Firebase, BLoC, Provider, GetX<br><br>✨ I care about clean code, smooth performance & great user experience<br><br>🔗 Portfolio Website
+Hi, I'm Nishanth — a passionate Flutter developer with real-world experience building modern, scalable mobile applications.<br><br>
+🚀 Flutter Developer with hands-on experience in building mobile & web apps<br><br>
+📱 Skilled in responsive UI, REST APIs & Firebase integration<br><br>
+🛠️ Tools I use: Flutter, Dart, Firebase, BLoC, Provider, GetX<br><br>
+✨ I care about clean code, smooth performance & great user experience<br><br>
+🔗 [Portfolio Website](https://nishanth-10756.web.app/)
 
 
 ## 🌐 Socials:
